@@ -2,9 +2,10 @@
 A popular game, made as vue component, ready to use.
 
 ### What is this repo for ###
-* It contains a ready-to use vue component, a tictactoe game against the computer. It is declared as a global component with `Vue.component()`, so it can be used inside the components declaration inside a vue instance or directly in the markup.
+* It contains a ready-to use vue component, a tictactoe game to play against the computer. It is declared as a global component with `Vue.component()`, so it can be used inside the components declaration inside a vue instance or directly in the markup.
 
 ### Usage ###
+* Create a parent element for the component in your markup, e.g. `<div id="app"></div>`
 * In your html document, import vue, e.g. `https://cdn.jsdelivr.net/npm/vue`
 * From this library, use the compiled javascript in the dist folder or your script tag `https://raw.githubusercontent.com/snakedove/vue-tictactoe/master/dist/tictactoe.js`
 * From this library, use the compiled css in the dist folder `https://raw.githubusercontent.com/snakedove/vue-tictactoe/master/dist/tictactoe.css`
