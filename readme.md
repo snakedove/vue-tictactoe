@@ -15,7 +15,7 @@ new Vue({
     template: `<div id="app"><tic-tac-toe /></div>`
 });
 ```
-* add some style for the wrapper, e.g.
+* add some style for the wrapper, for example:
 ```html
 <style type="text/css">
     html, body {
@@ -39,3 +39,6 @@ new Vue({
 </style>
 ```
 * or import the `TicTacToe` component e.g. `import TicTacToe from './tictactoe'` and use it in your components
+
+## Example ##
+* Living example of vue-TicTacToe can be found here: https://codepen.io/hblab/full/KKdXqga
