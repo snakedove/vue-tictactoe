@@ -6,8 +6,8 @@ A popular game, made as vue component, ready to use.
 
 ### Usage ###
 * In your html document, import vue, e.g. `https://cdn.jsdelivr.net/npm/vue`
-* From this library, link the compiled javascript with your script tag, e.g. `<script type="text/javascript" src="https://raw.githubusercontent.com/snakedove/vue-tictactoe/master/dist/tictactoe.js"></script>`
-* From this library, link the compiled css e.g. `<link rel="stylesheet" href="https://raw.githubusercontent.com/snakedove/vue-tictactoe/master/dist/tictactoe.css"></script>`
+* From this library, use the compiled javascript in the dist folder or your script tag `https://raw.githubusercontent.com/snakedove/vue-tictactoe/master/dist/tictactoe.js`
+* From this library, use the compiled css in the dist folder `https://raw.githubusercontent.com/snakedove/vue-tictactoe/master/dist/tictactoe.css`
 * Create your own javascript where you create a vue instance and use the component, e.g.
 ```javascript
 new Vue({
